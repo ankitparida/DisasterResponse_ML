@@ -6,6 +6,10 @@ The primary aims of disaster response are rescue from immediate danger and stabi
 
 In this Project, we'll work with data set containing real messages that were sent during disaster events. This dataset will help in building a machine learning pipeline to categorize these events so that we can send the messages to an appropriate disaster relief agency.
 
+# Web App Snippet
+![Web App](Web_app.JPG)
+![Web App](Web_app_2.JPG)
+
 # File Descriptions
 
 * ETL_Pipeline_Preparation.ipynb: *Steps Performed in Jupyter notebook to Prepare the Data (Extracts,Transform and Load)
@@ -13,10 +17,6 @@ In this Project, we'll work with data set containing real messages that were sen
 * process_data.py: *Python File to run ETL pipeline that cleans data and stores in database
 * train_classifier.py: *Python File to run ML pipeline that trains classifier and saves 
 * run.py: *Python File to run the Web App 
-
-# Web App Snippet
-![Web App](Web_app.JPG)
-
 
 # Libraries Used
 
