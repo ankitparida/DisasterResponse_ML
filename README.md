@@ -46,4 +46,4 @@ I would like to give credit to:
 * ![Udacity](https://classroom.udacity.com/nanodegrees/nd025)
 * ![ML Algos](https://machinelearningmastery.com/)
 
-# Github Link: https://github.com/ankitparida/DisasterResponse_ML
+## Github Link: https://github.com/ankitparida/DisasterResponse_ML
