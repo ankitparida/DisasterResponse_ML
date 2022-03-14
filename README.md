@@ -15,7 +15,7 @@ In this Project, we'll work with data set containing real messages that were sen
 * run.py: *Python File to run the Web App 
 
 # Web App Snippet
-![Web App](/DisasterResponse_ML/Web_app.JPG)
+![Web App](Web_app.JPG)
 
 
 # Libraries Used
