@@ -44,6 +44,7 @@ Note- Assuming python is already set as environment variable
 # Acknowledgements
 I would like to give credit to:
 * ![Udacity](https://classroom.udacity.com/nanodegrees/nd025)
-* ![ML Algos](https://machinelearningmastery.com/)
+* ![MachineLearning_Mastery](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
+* ![AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2021/08/developing-an-image-classification-model-using-cnn/)
 
 ## Github Link: https://github.com/ankitparida/DisasterResponse_ML
